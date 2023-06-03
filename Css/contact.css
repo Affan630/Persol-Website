@@ -1,0 +1,44 @@
+.pop{
+	color: #fff !important;
+}
+.pkj{
+    margin: 100px;
+}
+body{
+    background-color: #e2eaef;
+    font-family:sans-serif;
+}
+.prd{
+    background-color: #e2eaef;
+    border-color: #7ac400;
+    color: #7ac400;
+    font-weight: 400;
+}
+.prd:hover{
+    color: black;
+    background-color: #7ac400;
+    border-color: #7ac400;
+}
+.lpop{
+    background-color: #e2eaef !important;
+}
+.poqp{
+    border-color: #7ac400 !important;
+    color: #7ac400 !important;
+    font-weight: 400;
+}
+.poqp:hover{
+    color: black !important;
+    background-color: #7ac400 !important;
+}
+.ade{
+     text-align: center;
+     margin-bottom: 10px;
+}
+.qwer{
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+.kol{
+    color: black !important;
+}
